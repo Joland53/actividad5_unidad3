@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: cyan;
+    padding: 10px;
+}
+nav {
+    position: relative;
+    top: -28px;
+    right: -700px;
+}
+form {
+    position: relative;
+    right: -640px;
+    top: -23px;
+}
+.container {
+    background-color: lightcoral;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#titulo-principal {
+    background-color: greenyellow;
+    padding-left: 20px;
+    position: relative;
+    top: 20px;
+}
+#seccion-subscripcion {
+    background-color: indigo;
+    padding: 10px;
+}
+body > section > div > h1 {
+    padding-left: 20px;
+    position: relative;
+    top: 22px;
+}
+#main {
+    background-color: salmon;
+    padding: 10px;
+}
+#columna-principal {
+    background-color: yellow;
+    width: 65%;
+    padding: 10px;
+}
+#barra-lateral {
+    background-color: blue;
+    width: 30%;
+    padding: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 686px;
+    bottom: 820px;
+}
+.elemento-lateral {
+    background-color: chartreuse;
+    padding-top: 10px;
+    padding: 10px;
+}
+footer {
+    background-color: crimson;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+#imagen {
+    float: left;
+    margin-right: 16px;
+    margin-top: 2px;
+    
+}
